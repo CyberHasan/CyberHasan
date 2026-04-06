@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/186767606?v=4" width="128" style="border-radius: 50%; margin-bottom: 16px;">
+<img src="https://avatars.githubusercontent.com/u/186767606?v=4" width="128" style="border-radius: 50%; margin-bottom: 20px;">
 
 # MD ABU HASAN
 
@@ -11,26 +11,18 @@
 
 ### I architect logic for complex business workflows.
 
-From multi-entity manufacturing groups and government tender contractors to large-scale aquaculture farms and regional distributors — I build precision accounting systems that eliminate black holes and deliver real financial control.
+From multi-entity manufacturing groups and government tender contractors to large-scale aquaculture farms and regional distributors — I design and implement precision accounting systems that eliminate black holes and deliver real financial control.
 
 ---
 
-### What I Deliver
+### Core Capabilities
 
-- **Manager.io ERP Implementations** – Clean-slate architecture for complex operations  
-- **Custom Accounting Systems** – Production, inventory, payroll & compliance automation  
-- **VAT & Regulatory Compliance** – Mushak 6.3, NBR-ready systems  
-- **Digital Transformation** – From Excel chaos to enterprise-grade workflows  
+- **Manager.io ERP Implementations** — Clean-slate architecture for complex multi-entity operations  
+- **Custom Accounting Systems** — Production, inventory, payroll & full compliance automation  
+- **VAT & NBR Compliance** — Mushak 6.3, digital submission systems  
+- **Digital Transformation** — From legacy Excel chaos to enterprise-grade workflows  
 
-**Currently serving clients in Bangladesh, Pakistan & UAE.**
-
----
-
-### Official Credentials
-
-- Official Manager.io Partner & Listed Advisor (Bangladesh)  
-- Trade License: TRADE-DSCC-0045632025  
-- BASIS Member (Bangladesh Software & Information Services Industry)  
+Currently serving clients across **Bangladesh, Pakistan & UAE**.
 
 ---
 
