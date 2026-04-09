@@ -36,8 +36,8 @@ Currently serving clients across **Bangladesh, Pakistan & UAE**.
 ### System Operations & Language Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CyberHasan&show_icons=true&title_color=00D2FF&icon_color=00D2FF&text_color=ffffff&bg_color=0A0F1E&hide_border=true&line_height=28" alt="MD ABU HASAN's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberHasan&layout=compact&title_color=00D2FF&text_color=ffffff&bg_color=0A0F1E&hide_border=true" alt="Top Engineering Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CyberHasan&show_icons=true&title_color=00D2FF&icon_color=00D2FF&text_color=ffffff&bg_color=0A0F1E&hide_border=true&line_height=28" alt="MD ABU HASAN's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberHasan&layout=compact&title_color=00D2FF&text_color=ffffff&bg_color=0A0F1E&hide_border=true" alt="Top Engineering Languages" />
 </div>
 
 ---
