@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/186767606?v=4" width="128" style="border-radius: 50%; margin-bottom: 20px;">
+<img src="https://avatars.githubusercontent.com/u/186767606?v=4" width="128" alt="MD ABU HASAN - Founder of INSPIRON TECH" style="border-radius: 50%; margin-bottom: 20px;">
 
 # MD ABU HASAN
 
-**Founder & Chief Architect, [INSPIRON TECH](https://inspiron.tech)**  
+**Founder & Chief Architect, [INSPIRON TECH](https://inspiron.tech)**  
 **Official Manager.io Partner – Bangladesh**
 
 ---
@@ -17,10 +17,10 @@ From multi-entity manufacturing groups and government tender contractors to larg
 
 ### Core Capabilities
 
-- **Manager.io ERP Implementations** — Clean-slate architecture for complex multi-entity operations  
-- **Custom Accounting Systems** — Production, inventory, payroll & full compliance automation  
-- **VAT & NBR Compliance** — Mushak 6.3, digital submission systems  
-- **Digital Transformation** — From legacy Excel chaos to enterprise-grade workflows  
+- **Manager.io ERP Implementations** — Clean-slate architecture for complex multi-entity operations  
+- **Custom Accounting Systems** — Production, inventory, payroll & full compliance automation  
+- **VAT & NBR Compliance** — Mushak 6.3, digital submission systems  
+- **Digital Transformation** — From legacy Excel chaos to enterprise-grade workflows  
 
 Currently serving clients across **Bangladesh, Pakistan & UAE**.
 
@@ -28,15 +28,24 @@ Currently serving clients across **Bangladesh, Pakistan & UAE**.
 
 ### Pinned Repositories
 
-- **[WEB-COMMAND-HQ](https://github.com/INSPIRONTECH/WEB-COMMAND-HQ)** — Official company website (inspiron.tech)  
-- **[CyberHasan](https://github.com/CyberHasan/CyberHasan)** — GitHub Profile README  
+- **[WEB-COMMAND-HQ](https://github.com/INSPIRONTECH/WEB-COMMAND-HQ)** — Official company website (inspiron.tech)  
+- **[CyberHasan](https://github.com/CyberHasan/CyberHasan)** — GitHub Profile README  
+
+---
+
+### System Operations & Language Metrics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CyberHasan&show_icons=true&title_color=00D2FF&icon_color=00D2FF&text_color=ffffff&bg_color=0A0F1E&hide_border=true&line_height=28" alt="MD ABU HASAN's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberHasan&layout=compact&title_color=00D2FF&text_color=ffffff&bg_color=0A0F1E&hide_border=true" alt="Top Engineering Languages" width="48%" />
+</div>
 
 ---
 
 ### Connect With Me
 
-[![Website](https://img.shields.io/badge/Website-inspiron.tech-00D2FF?style=flat&logo=vercel&logoColor=white)](https://inspiron.tech)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/8801719300849)  
+[![Website](https://img.shields.io/badge/Website-inspiron.tech-00D2FF?style=flat&logo=vercel&logoColor=white)](https://inspiron.tech)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/8801719300849)  
 [![Email](https://img.shields.io/badge/Email-hello%40inspiron.tech-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:hello@inspiron.tech)
 
 ---
@@ -48,6 +57,7 @@ Currently serving clients across **Bangladesh, Pakistan & UAE**.
 [![Dhaka, Bangladesh](https://img.shields.io/badge/Dhaka-Bangladesh-00D2FF?style=flat&logo=google-maps&logoColor=white)](https://inspiron.tech)
 
 ---
+<br>
 
 **"I do not install software. I architect logic."**
 
