@@ -93,10 +93,7 @@ Proprietary multi-currency invoice engine. Auto-detects PKR/AED/BDT, commission 
 
 ### 📊 Engineering Metrics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CyberHasan&show_icons=true&title_color=00D2FF&icon_color=FFD700&text_color=e6edf3&bg_color=0d1117&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberHasan&layout=compact&title_color=00D2FF&text_color=e6edf3&bg_color=0d1117&hide_border=true&langs_count=8&hide=html,css&count_private=true" height="165" alt="Top Languages" />
-</div>
+
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CyberHasan&background=0d1117&border=21262d&stroke=00D2FF&ring=00D2FF&fire=FFD700&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=00D2FF&sideLabels=8b949e&dates=8b949e&hide_border=true" alt="GitHub Streak" />
