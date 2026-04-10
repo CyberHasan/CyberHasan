@@ -3,7 +3,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:010409,50:0d1117,100:00D2FF&height=220&section=header&text=MD%20ABU%20HASAN&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Full-Stack%20Developer%20%C2%B7%20System%20Architect%20%C2%B7%20Dhaka%2C%20Bangladesh&descSize=14&descAlignY=55&animation=fadeIn" width="100%">
 
 [![INSPIRON TECH](https://img.shields.io/badge/Founder-INSPIRON%20TECH-00D2FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Im0xMiAxLTkuNSA1LjVWMTdMIDEyIDIzbDkuNS01LjVWNi41eiIvPjwvc3ZnPg==&logoColor=white)](https://github.com/INSPIRONTECH)
-[![Manager.io Partner](https://img.shields.io/badge/Manager.io-Official%20Partner-FFD700?style=for-the-badge&logoColor=white)](https://manager.io/advisors)
+[![Manager.io Advisor](https://img.shields.io/badge/Manager.io-Official%20Advisor-FFD700?style=for-the-badge&logoColor=white)](https://www.manager.io/advisors/profile?username=7478b418-50b1-70e2-549b-3a506372d7c0)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/cyberhasan)
 [![GitHub Developer](https://img.shields.io/badge/GitHub-Developer%20Program-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CyberHasan)
 
 </div>
@@ -20,6 +21,12 @@ Healthcare Technology  →  FHIR R4 · Offline-first LIS · Government integrati
 Web Infrastructure     →  Next.js · TypeScript · Supabase · Vercel
 Desktop Automation     →  Flutter · HL7 protocol · Windows Services
 ```
+
+<div align="center">
+
+`50+ SMEs` · `15+ Industries` · `BD · PK · UAE` · `14,478 transactions migrated (zero data loss)` · `4.95/5 client rating`
+
+</div>
 
 ---
 
@@ -76,7 +83,7 @@ Internal dev tools, scripts, and automation utilities.
 **🎨 NEXUS Invoice Suite**
 Proprietary multi-currency invoice engine. Auto-detects PKR/AED/BDT, commission invoices, WHT styling.
 
-`JavaScript` `Manager.io` · *Proprietary*
+`JavaScript` `Manager.io` · _Proprietary_
 
 </td>
 </tr>
@@ -125,16 +132,17 @@ Proprietary multi-currency invoice engine. Auto-detects PKR/AED/BDT, commission 
 <div align="center">
 
 [![Website](https://img.shields.io/badge/inspiron.tech-00D2FF?style=for-the-badge&logo=vercel&logoColor=white)](https://inspiron.tech)
+[![Upwork](https://img.shields.io/badge/Hire%20on%20Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/cyberhasan)
+[![Manager.io Profile](https://img.shields.io/badge/Manager.io%20Advisor-FFD700?style=for-the-badge&logoColor=white)](https://www.manager.io/advisors/profile?username=7478b418-50b1-70e2-549b-3a506372d7c0)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801719300849)
 [![Email](https://img.shields.io/badge/hasan.cybersage@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hasan.cybersage@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cyberhasan)
 
 </div>
 
 <div align="center">
 <br>
 
-*I don't install software. I architect logic.*
+_I don't install software. I architect logic._
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:010409,50:0d1117,100:00D2FF&height=100&section=footer" width="100%">
 
