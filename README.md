@@ -94,8 +94,8 @@ Proprietary multi-currency invoice engine. Auto-detects PKR/AED/BDT, commission 
 ### 📊 Engineering Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CyberHasan&show_icons=true&title_color=00D2FF&icon_color=FFD700&text_color=e6edf3&bg_color=0d1117&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberHasan&layout=compact&title_color=00D2FF&text_color=e6edf3&bg_color=0d1117&hide_border=true&langs_count=8&hide=html,css&count_private=true" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats-kappa.vercel.app/api?username=CyberHasan&show_icons=true&title_color=00D2FF&icon_color=FFD700&text_color=e6edf3&bg_color=0d1117&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-kappa.vercel.app/api/top-langs/?username=CyberHasan&layout=compact&title_color=00D2FF&text_color=e6edf3&bg_color=0d1117&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
 </div>
 
 <div align="center">
@@ -135,7 +135,7 @@ Proprietary multi-currency invoice engine. Auto-detects PKR/AED/BDT, commission 
 [![Upwork](https://img.shields.io/badge/Hire%20on%20Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/cyberhasan)
 [![Manager.io Profile](https://img.shields.io/badge/Manager.io%20Advisor-FFD700?style=for-the-badge&logoColor=white)](https://www.manager.io/advisors/profile?username=7478b418-50b1-70e2-549b-3a506372d7c0)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801719300849)
-[![Email](https://img.shields.io/badge/hasan.cybersage@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hasan.cybersage@gmail.com)
+[![Email](https://img.shields.io/badge/hello@inspiron.tech-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@inspiron.tech)
 
 </div>
 
