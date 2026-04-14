@@ -37,7 +37,7 @@ Desktop Automation     →  Flutter · HL7 protocol · Windows Services
 <td width="50%">
 
 **[⚕️ HEALTHCARE INSPIRON](https://github.com/INSPIRONTECH/HEALTHCARE-INSPIRON)**
-Free, offline-first LIS for Bangladesh's 9,500+ private diagnostic labs. DGHS FHIR R4 integrated.
+Proprietary SaaS LIS for Bangladesh's 9,500+ private diagnostic labs. DGHS FHIR R4 integrated. mindray HL7 auto-interfacing.
 
 `Next.js` `Flutter` `Supabase` `FHIR R4` `HL7`
 
