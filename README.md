@@ -44,10 +44,10 @@ Proprietary SaaS LIS for Bangladesh's 9,500+ private diagnostic labs. DGHS FHIR 
 </td>
 <td width="50%">
 
-**[📊 MANAGER-IO-DASHBOARD](https://github.com/INSPIRONTECH/MANAGER-IO-DASHBOARD)**
-Custom dashboard extensions for Manager.io ERP — real-time analytics and reporting.
+**[🏛️ INSPIRON SUITE](https://github.com/INSPIRONTECH/INSPIRON-SUITE)**
+Global business architecture for Manager.io — Universal Canvas themes, extensions, and financial logic.
 
-`JavaScript` `Manager.io` `Dashboard`
+`Manager.io` `CC BY 4.0` `Themes` `Extensions`
 
 </td>
 </tr>
@@ -72,18 +72,18 @@ Open-source utilities and extensions for the Manager.io community.
 <tr>
 <td width="50%">
 
-**[⚡ INSPIRON-SOFTWARE-TOOLS](https://github.com/CyberHasan/INSPIRON-SOFTWARE-TOOLS)**
-Internal dev tools, scripts, and automation utilities.
+**[🌐 INSPIRON-TECH](https://github.com/INSPIRONTECH/INSPIRON-TECH)**
+Corporate web platform and digital headquarters at [inspiron.tech](https://inspiron.tech).
 
-`PowerShell` `Python` `Automation`
+`Next.js 15` `React 19` `TypeScript` `Tailwind`
 
 </td>
 <td width="50%">
 
-**🎨 NEXUS Invoice Suite**
-Proprietary multi-currency invoice engine. Auto-detects PKR/AED/BDT, commission invoices, WHT styling.
+**[🔒 EGP-OPERATOR-LAB](https://github.com/CyberHasan/EGP-OPERATOR-LAB)**
+eGP Operator Portal v2.2 — Training, simulation & certification for Manager.io × e-GP integration. · [Live →](https://egp.inspiron.tech/)
 
-`JavaScript` `Manager.io` · _Proprietary_
+`HTML` `Manager.io` `e-GP` · _Private_
 
 </td>
 </tr>
